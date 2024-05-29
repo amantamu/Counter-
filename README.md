@@ -2,6 +2,9 @@
 
  <img width="285" alt="screenshot" src="https://github.com/amantamu/Counter-/assets/57833767/6c6dde1e-d183-49f9-99f1-373323c087a1">
 
+ Here is the link for app :
+ https://amantamu.github.io/Counter-/
+
 Description: A straightforward counter project that allows users to increment and decrement a number displayed on the screen. It also includes a button to reset the counter to zero.
 
 Learning Concepts:
