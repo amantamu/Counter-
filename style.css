@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    text-align: center;
+}
+
+.sub {
+    padding: 25px;
+    border: 5px solid red;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 40px;
+    color: cornflowerblue;
+}
+
+button {
+    font-size: large;
+    margin: 5px;
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+}
